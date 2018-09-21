@@ -1,0 +1,11 @@
+#basic-form .has-error .control-label,
+#basic-form .has-error .help-block,
+#basic-form .has-error .form-control-feedback {
+    color: #f39c12;
+}
+
+#basic-form .has-success .control-label,
+#basic-form .has-success .help-block,
+#basic-form .has-success .form-control-feedback {
+    color: #18bc9c;
+}
